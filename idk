@@ -4,7 +4,7 @@ int main(){
 
 int a;
 
-printf("INTRODUZA 1 NUMERO DE 1 A 3");
+printf("INTRODUZA 1 NUMERO DE 1 A 3:\t");
 scanf("%d",&a);
 
 if(a==1){
